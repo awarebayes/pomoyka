@@ -1,0 +1,16 @@
+obj
+gpc_test
+*.dissasembled
+*.dump
+*.hw_init
+*.map
+*.rawbinary
+*.sim_init
+*.log
+stYOAHv2
+Emulation-SW
+Emulation-HW
+Hardware
+obj
+Leonhardx64_xrt
+*.xclbin

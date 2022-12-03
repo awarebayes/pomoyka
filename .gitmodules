@@ -1,0 +1,6 @@
+[submodule "sw-kernel-lib"]
+	path = sw-kernel-lib
+	url = https://gitlab.com/leonhard-x64-xrt-v2/libraries/sw-kernel-lib.git
+[submodule "host-lib"]
+	path = host-lib
+	url = https://gitlab.com/leonhard-x64-xrt-v2/libraries/host-lib.git
